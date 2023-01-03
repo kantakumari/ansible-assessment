@@ -1,0 +1,10 @@
+Steps :
+-> Download open jdk
+-> Validate if java is present
+-> Create user and group
+-> Create a directory /opt/tomcat8
+-> Download Tomcat using unarchive
+-> Move the files to the /opt/tomcat8 directory
+-> Create a service file
+-> Reload the systemd to re-read configurations
+->Connect to Tomcat server
